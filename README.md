@@ -1,2 +1,2 @@
-# 1_Ecommerce-Application-2023
-Ecommerce App with context API
+# MERN Stack - ECOMMERCE APP || FINAL CODE
+Complete full stack project with cutting edge technologies, with admin panel and payment gateway
